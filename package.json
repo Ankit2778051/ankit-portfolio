@@ -9,9 +9,21 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@lottiefiles/react-lottie-player": "^3.6.0",
+    "@next/third-parties": "^16.2.10",
+    "autoprefixer": "^10.5.2",
+    "axios": "^1.18.1",
+    "lottie-react": "^2.4.1",
+    "mailchecker": "^6.0.20",
     "next": "16.2.10",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "react-fast-marquee": "^1.6.5",
+    "react-icons": "^5.7.0",
+    "react-toastify": "^11.1.0",
+    "sass": "^1.101.0",
+    "sharp": "^0.35.3",
+    "timezonecomplete": "^5.15.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
